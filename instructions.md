@@ -12,7 +12,3 @@ In **visualize_seq.py** make sure to set the **path to the sequence** you want t
 Make sure to run *gen_data.py* before you try *visualize_seq.py*
 
 PS: A lot of places I have used list comprehensions to keep the code compact. Here's a reference: https://www.python-course.eu/list_comprehension.php
-
-All the best.
-
-PFA
